@@ -51,7 +51,7 @@ Don't forget to [star (🌟) this repo](https://docs.github.com/en/get-started/e
 
 ## 🧠 Ready to Deploy?
 
-If you are looking for more advanced code samples, check out our [collection of Generative AI Code Samples](https://aka.ms/genai-beg-code?WT.mc_id=academic-105485-koreyst) in both **Python** and **TypeScript**.
+If you are looking for more advanced code samples, check out our [Collection of Generative AI Code Samples](https://aka.ms/genai-beg-code?WT.mc_id=academic-105485-koreyst) in both **Python** and **TypeScript**.
 
 ## 🗣️ Meet Other Learners, Get Support
 
